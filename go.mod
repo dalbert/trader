@@ -1,4 +1,4 @@
-module dalbert/trader
+module github.com/dalbert/trader
 
 go 1.13
 
