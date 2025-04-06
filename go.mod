@@ -1,4 +1,4 @@
-module tryffel.net/go/bookmarker
+module dalbert/trader
 
 go 1.13
 
